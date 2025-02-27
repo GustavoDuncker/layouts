@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(84, 153, 153);
+
+}
+
+.azul{
+    background-color: rgb(101, 160, 46);
+    padding: 100px;
+    margin: 20px;
+}
+
+.amarela{
+    background-color: rgb(255, 255, 87);
+    padding: 100px;
+    margin: 20px;
+}
+.flex{
+    display: flex;
+}
